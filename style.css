@@ -320,9 +320,9 @@ button {
 }
 
 .galeria-img img {
-  width: 60%;
-  height: auto;
+  width: 100%;
   border-radius: 4px;
+  overflow-x: scroll;
 }
 
 .decoracao {
@@ -368,13 +368,14 @@ button {
 }
 
 .preservacao-card img {
-  width: 100%;
+  width: 50%;
   height: auto;
   border-radius: 4px;
 }
 
 .preservacao-conteudo {
   padding: 0 30px;
+  width: 50%;
 }
 
 .preservacao-conteudo span {
@@ -807,6 +808,7 @@ footer {
   }
 
   .preservacao-conteudo {
+    width: 100%;
     padding: 24px 0 0;
   }
 
