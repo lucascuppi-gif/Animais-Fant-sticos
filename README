@@ -1,0 +1,28 @@
+Animais Fantásticos 🦊
+Landing page educativa sobre o reino animal, desenvolvida com HTML, CSS e JavaScript puro.
+Sobre o Projeto
+Site dedicado a documentar e celebrar a diversidade da vida selvagem, com informações sobre espécies, curiosidades do reino animal e conteúdo sobre preservação ambiental.
+Tecnologias
+
+HTML5 semântico
+CSS3 com animações e responsividade
+JavaScript puro
+
+Seções
+
+Hero — apresentação do site
+Estatísticas — dados sobre biodiversidade
+Animais — fichas detalhadas de espécies
+Curiosidades — fatos fascinantes do reino animal
+Galeria — fotografias da vida selvagem
+Preservação — importância da conservação ambiental
+Newsletter — formulário de inscrição
+Footer — navegação e contato
+
+Aprendizados
+
+CSS Grid e Flexbox avançado
+Responsividade mobile com media queries
+Semântica HTML e acessibilidade
+column-count para layout editorial
+Menu hamburger com JavaScript
