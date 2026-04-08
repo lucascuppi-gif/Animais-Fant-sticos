@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Fundo -->
+  <circle cx="32" cy="32" r="30" fill="#1a1208"/>
+
+  <!-- Borda -->
+  <circle cx="32" cy="32" r="30" fill="none" stroke="#f2b84b" stroke-width="3"/>
+
+  <!-- Letra -->
+  <text x="32" y="42"
+        text-anchor="middle"
+        font-family="Georgia, serif"
+        font-size="34"
+        fill="#f2b84b"
+        font-weight="bold">
+        A
+  </text>
+</svg>
