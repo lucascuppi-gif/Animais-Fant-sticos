@@ -903,3 +903,14 @@ footer {
     font-size: 0.75rem;
   }
 }
+
+.js-animacao {
+  opacity: 0;
+  transition: all 0.8s linear;
+  transform: translateX(-20px);
+}
+
+.js-animacao.ativo {
+  opacity: 1;
+  transform: translateX(0);
+}
